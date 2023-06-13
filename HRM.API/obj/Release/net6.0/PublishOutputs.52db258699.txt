@@ -1,0 +1,15 @@
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\HRM.API.exe
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\HRM.API.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\HRM.API.deps.json
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\HRM.API.runtimeconfig.json
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\HRM.API.pdb
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Documents\MY LEARNING\PROJECTS\HRM\HRM.API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
